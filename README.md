@@ -1,2 +1,2 @@
-# sdbc.gitgub.io
+# sdbc
 상당중학교 방송부 사이트
